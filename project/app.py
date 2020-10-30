@@ -5,6 +5,7 @@ from flask import Flask, g, render_template, request, session, \
                   flash, redirect, url_for, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from functools import wraps
+import os
 
 
 basedir = Path(__file__).resolve().parent
