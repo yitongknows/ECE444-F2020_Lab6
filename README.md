@@ -2,10 +2,12 @@
 This repo is a replay of the example of https://github.com/mjhea0/flaskr-tdd
 
 ## Activity 1: Add test cases to your group project
-Here is the url of the function I added to my project:
+Here is the url of the function I added to my project:  
+
 https://github.com/ECE444-2020Fall/project1-webapp-group1-nightowls/blob/Backend/tests/test_authentication.py#L22-L43
 
-Here is a screenshot of the test case I created for the sign up function in the project:
+Here is a screenshot of the test case I created for the sign up function in the project:  
+
 ![alt text](image/Screenshot_5.jpg)
 
 ## What are the pros and cons of TDD
