@@ -3,6 +3,10 @@ This repo is a replay of the example of https://github.com/mjhea0/flaskr-tdd
 
 ## Activity 1: Add test cases to your group project
 Here is the url of the function I added to my project:
+https://github.com/ECE444-2020Fall/project1-webapp-group1-nightowls/blob/Backend/tests/test_authentication.py#L22-L42
+
+Here is a screenshot of the test case I created for the sign up function in the project:
+
 
 ## What are the pros and cons of TDD
 Test Driven Development is a software development appoach that each functionality has associated test cases attached to it to ensure it works as expected. If the test cases fail, then we need to modify the code or write new codes in order to pass the test cases. This process can be repeated if needed.
